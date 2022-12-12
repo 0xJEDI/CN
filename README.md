@@ -36,8 +36,7 @@
 ## FUNCTIONS - OBJECTS
 
 ### FUNCTIONS
-- Act 1 
-- Act 2 
+- Act 1 & 2 (act1_2_function.js) 
 
 ### OBJECTS
 - Act 1 & 2 & 3 & 4 (function.js) 

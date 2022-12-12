@@ -4,15 +4,15 @@
 Learn about the basics of for and while loops in JavaScript.
 
 For Loops
-	> Activity 2 (even_odd.js)
-	> Activity 3 (even_odd.js)
+> Activity 2 (even_odd.js)
+> Activity 3 (even_odd.js)
 
 While Loops
-	> Activity 3 (child_adult.js)
-	> Activity 4 (random_number.js)
-	> Activity 5 (film_array.js)
-	> Activity 6 (random_number.jsO)
-	> Activity 7 (smp.js)
+> Activity 3 (child_adult.js)
+> Activity 4 (random_number.js)
+> Activity 5 (film_array.js)
+> Activity 6 (random_number.jsO)
+> Activity 7 (smp.js)
 
 ## ARRAYS 
 Learn how to work with arrays in JavaScript.

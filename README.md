@@ -1,5 +1,3 @@
-# CN
-
 ## LOOPS
 
 ### For Loops

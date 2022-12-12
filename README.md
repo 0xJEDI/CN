@@ -15,5 +15,9 @@
 - act-1-2-3-4-5 (arrays_act.js)
 
 ## IF ELSE - SWITCH
+- ACTIVITY 1 (music_if.js)
+- ACTIVITY 2 (age_checker.js)
+- ACTIVITY 3 (age_checker.js)
+- ACTIVITY 4 (weekend_checker.js)
 
 ## FUNCTIONS - OBJECTS

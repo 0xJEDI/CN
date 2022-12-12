@@ -8,11 +8,11 @@
 - Act 3 (child_adult.js)
 - Act 4 (random_number.js)
 - Act 5 (film_array.js)
-- Act 6 (random_number.js)
+- Act 6 (random_number.jsO)
 - Act 7 (smp.js)
 
 ## ARRAYS
-- Act 1&2&3&4&5 (arrays_act.js)
+- Act-1-2-3-4-5 (arrays_act.js)
 
 ## IF ELSE - SWITCH
 
@@ -31,18 +31,14 @@
 - Act 9 
 - Act 10
 - Act 11 
-
-
-// NAMED IN FOLDER
+* NAMED IN FOLDER
 
 ## FUNCTIONS - OBJECTS
 
 ### FUNCTIONS
-- Act 1 & 2 (act1_2_function) 
-
-### OBJECTS
 - Act 1 
 - Act 2 
-- Act 3 
-- Act 4 
-- Act 5
+
+### OBJECTS
+- Act 1 & 2 & 3 & 4 (function.js) 
+- Act 5 (shops.js)

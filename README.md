@@ -1,6 +1,6 @@
 # CN
 
-### FOR & WHILE LOOPS
+## LOOPS
 
 ### For Loops
 - Activity 2 (even_odd.js)

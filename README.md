@@ -23,14 +23,6 @@
 - Act 4 (weekend_checker.js)
 
 ### SWITCH
-- Act 4 
-- Act 5 
-- Act 6 
-- Act 7 
-- Act 8 
-- Act 9 
-- Act 10
-- Act 11 
 * NAMED IN FOLDER
 
 ## FUNCTIONS - OBJECTS

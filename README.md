@@ -1,9 +1,9 @@
 ## LOOPS 
 
-### For Loops 
+### [For Loops](https://github.com/0xJEDI/CN/tree/main/loops/FOR_LOOPS)
 - Act 2 & 3(even_odd.js)
 
-### While Loops 
+### [While Loops](https://github.com/0xJEDI/CN/tree/main/loops/WHILE_LOOPS) 
 - Act 3 (child_adult.js)
 - Act 4 (random_number.js)
 - Act 5 (film_array.js)
@@ -26,14 +26,14 @@
 
 ## FUNCTIONS - OBJECTS
 
-### FUNCTIONS
+### [FUNCTIONS](https://github.com/0xJEDI/CN/tree/main/functions/FUNCTIONS)
 - Act 1 & 2 (act1_2_function.js) 
 
-### OBJECTS
+### [OBJECTS](https://github.com/0xJEDI/CN/tree/main/functions/OBJECTS)
 - Act 1 & 2 & 3 & 4 (function.js) 
 - Act 5 (shops.js)
 
-### ORIENTATED
+### [ORIENTATED](https://github.com/0xJEDI/CN/tree/main/functions/ORIENTATED)
 
 - Act 1 (0x01.js)
 - Act 2 (0x02.js)

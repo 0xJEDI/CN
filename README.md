@@ -12,7 +12,7 @@
 - Act 7 (smp.js)
 
 ## ARRAYS
-- Act-1-2-3-4-5 (arrays_act.js)
+- Act 1&2&3&4&5 (arrays_act.js)
 
 ## IF ELSE - SWITCH
 
@@ -38,8 +38,7 @@
 ## FUNCTIONS - OBJECTS
 
 ### FUNCTIONS
-- Act 1 
-- Act 2 
+- Act 1 & 2 (act1_2_function) 
 
 ### OBJECTS
 - Act 1 

@@ -1,5 +1,6 @@
 # <-- CN -->
-------------------------------------
+<hr>
+
 ## FOR & WHILE LOOPS
 Learn about the basics of for and while loops in JavaScript.
 

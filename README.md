@@ -32,3 +32,8 @@
 ### OBJECTS
 - Act 1 & 2 & 3 & 4 (function.js) 
 - Act 5 (shops.js)
+
+### ORIENTATED
+
+- Act 1 (0x01.js)
+- Act 2 (0x02.js)

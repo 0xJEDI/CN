@@ -4,11 +4,11 @@
 ## FOR & WHILE LOOPS
 Learn about the basics of for and while loops in JavaScript.
 
-## For Loops
+### For Loops
 - Activity 2 (even_odd.js)
 - Activity 3 (even_odd.js)
 
-## While Loops
+### While Loops
 - Activity 3 (child_adult.js)
 - Activity 4 (random_number.js)
 - Activity 5 (film_array.js)

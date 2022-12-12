@@ -1,8 +1,7 @@
 ## LOOPS
 
 ### For Loops
-- Act 2 (even_odd.js)
-- Act 3 (even_odd.js)
+- Act 2 & 3(even_odd.js)
 
 ### While Loops
 - Act 3 (child_adult.js)

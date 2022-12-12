@@ -15,12 +15,14 @@
 - Act-1-2-3-4-5 (arrays_act.js)
 
 ## IF ELSE - SWITCH
+
+### IF ELSE
 - Act 1 (music_if.js)
 - Act 2 (age_checker.js)
 - Act 3 (age_checker.js)
 - Act 4 (weekend_checker.js)
 
-## FUNCTIONS - OBJECTS
+### SWITCH
 - Act 4 
 - Act 5 
 - Act 6 
@@ -29,3 +31,16 @@
 - Act 9 
 - Act 10
 - Act 11 
+
+## FUNCTIONS - OBJECTS
+
+### FUNCTIONS
+- Act 1 
+- Act 2 
+
+### OBJECTS
+- Act 1 
+- Act 2 
+- Act 3 
+- Act 4 
+- Act 5

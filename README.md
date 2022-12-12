@@ -1,4 +1,5 @@
-# FOR & WHILE LOOPS
+# <-- CN -->
+## FOR & WHILE LOOPS
 
 Learn about the basics of for and while loops in JavaScript.
 
@@ -15,7 +16,7 @@ Learn about the basics of for and while loops in JavaScript.
 - Activity 6 (random_number.jsO)
 - Activity 7 (smp.js)
 
-# ARRAYS
+## ARRAYS
 
 Learn how to work with arrays in JavaScript.
 
@@ -23,10 +24,10 @@ Learn how to work with arrays in JavaScript.
 
 Examples of working with arrays in JavaScript.
 
-# IF ELSE - SWITCH
+## IF ELSE - SWITCH
 
 Learn how to use the `if` and `else` keywords, as well as the `switch` statement in JavaScript.
 
-# FUNCTIONS - OBJECTS
+## FUNCTIONS - OBJECTS
 
 Learn how to create and use functions and objects in JavaScript.

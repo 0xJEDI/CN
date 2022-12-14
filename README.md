@@ -7,7 +7,7 @@
 - Act 3 (child_adult.js)
 - Act 4 (random_number.js)
 - Act 5 (film_array.js)
-- Act 6 (random_number.jsO)
+- Act 6 (random_number.js)
 - Act 7 (smp.js)
 
 ## [ARRAYS](https://github.com/0xJEDI/CN/tree/main/arrays)
